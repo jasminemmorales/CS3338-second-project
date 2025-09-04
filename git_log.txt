@@ -1,0 +1,65 @@
+commit 931707570285c5e27019a29354087a170570e92a
+Merge: 4c57255 58fb1cd
+Author: Jasmine Morales <jasminemiamorales@gmail.com>
+Date:   Wed Sep 3 22:28:22 2025 -0700
+
+    Merge branch 'main' of https://github.com/jasminemmorales/CS3338-second-project
+
+commit 4c572550ed0c1720d777ce989a2d099047d66251
+Merge: d270389 b8ebfec
+Author: Jasmine Morales <jasminemiamorales@gmail.com>
+Date:   Wed Sep 3 22:27:45 2025 -0700
+
+    Resolved merge conflict between main and index-fix
+
+commit b8ebfece7a3799e36a48525e67cdea45465d3073
+Author: Jasmine Morales <jasminemiamorales@gmail.com>
+Date:   Wed Sep 3 22:21:40 2025 -0700
+
+    Added favorite movie in index-fix branch
+
+commit d270389032fc2459c2aae1210636501e572f27bf
+Author: Jasmine Morales <jasminemiamorales@gmail.com>
+Date:   Wed Sep 3 22:18:27 2025 -0700
+
+    Added favorite food in main branch
+
+commit 58fb1cd4e0a9797d60c0b439bf6429c593dccdbc
+Author: Jasmine Morales <166654290+jasminemmorales@users.noreply.github.com>
+Date:   Wed Sep 3 22:14:38 2025 -0700
+
+    Update README.md
+
+commit 6f46551dc5a8d1f61c3ad57a35f63bbff54f259e
+Merge: da70b2c 916086b
+Author: Jasmine Morales <jasminemiamorales@gmail.com>
+Date:   Wed Sep 3 22:10:05 2025 -0700
+
+    Merge branch 'main' of https://github.com/jasminemmorales/CS3338-second-project
+
+commit da70b2cc700213808b7bfe27a33bdcd1c662cde4
+Author: Jasmine Morales <jasminemiamorales@gmail.com>
+Date:   Wed Sep 3 22:09:06 2025 -0700
+
+    Added README.md to project
+
+commit 916086b66a0906f6b1a4860bb0863842e69d4549
+Merge: 1d2bfc0 f4dac6a
+Author: Jasmine Morales <166654290+jasminemmorales@users.noreply.github.com>
+Date:   Wed Sep 3 22:06:47 2025 -0700
+
+    Merge pull request #1 from jasminemmorales/info-fill
+    
+    Filled in my name and hobby in index.html
+
+commit f4dac6af31345b69a58a9556686a825907b24aa0
+Author: Jasmine Morales <jasminemiamorales@gmail.com>
+Date:   Wed Sep 3 21:53:18 2025 -0700
+
+    Filled in my name and hobby in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
